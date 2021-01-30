@@ -3,12 +3,20 @@
 			"id": 1,
 			"title": "Holiday",
 			"photos": [{
-					"name": "1.png",
-					"imageurl": "https://via.placeholder.com/600/d32776"
+					"name": "airplane.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
 				},
 				{
-					"name": "1.png",
-					"imageurl": "https://via.placeholder.com/600/d32776"
+					"name": "arctichare.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"
+				},
+				   {
+					"name": "baboon.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
+				},
+				    {
+					"name": "cat.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/cat.png"
 				}
 			]
 		},
@@ -16,8 +24,8 @@
 			"id": 2,
 			"title": "Family",
 			"photos": [{
-					"name": "1.png",
-					"imageurl": "https://via.placeholder.com/600/d32776"
+					"name": "gun.png",
+					"imageurl": "https://ibb.co/JnK24Py"
 				},
 				{
 					"name": "1.png",
