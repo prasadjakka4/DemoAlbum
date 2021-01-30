@@ -1,56 +1,45 @@
-{  "Albums": [
-    {
-      "id": 1,
-      "title": "Holiday",
-       "photos" : [ {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    }
-                   ]
-    },
-    {
-      "id": 2,
-      "title": "Family",
-        
-        "photos" : [ {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    }
-                   ]
-               
-    {
-      "id": 3,
-      "title": "Frineds",
-          "photos" : [ {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    },
-                   {"imageName" : "1.png",
-                       "url" :  "https://via.placeholder.com/600/d32776"           
-                    }
-                   ]
-}
-  ]
- 
+{
+	"Albums": [{
+			"id": 1,
+			"title": "Holiday",
+			"photos": [{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				},
+				{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"title": "Family",
+			"photos": [{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				},
+				{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				}
+			]
+		},
+
+		{
+			"id": 3,
+			"title": "Frineds",
+			"photos": [{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				},
+				{
+					"name": "1.png",
+					"imageurl": "https://via.placeholder.com/600/d32776"
+				}
+			]
+
+		}
+	]
+
 }
