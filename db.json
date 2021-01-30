@@ -3,16 +3,16 @@
       "id": 1,
       "title": "Holiday",
        "photos" : [ {"imageName" : "1.png",
-                       "url" =  "https://via.placeholder.com/600/d32776"           
+                       "url" :  "https://via.placeholder.com/600/d32776"           
                     },
                    {"imageName" : "1.png",
-                       "url" =  "https://via.placeholder.com/600/d32776"           
+                       "url" :  "https://via.placeholder.com/600/d32776"           
                     },
                    {"imageName" : "1.png",
-                       "url" =  "https://via.placeholder.com/600/d32776"           
+                       "url" :  "https://via.placeholder.com/600/d32776"           
                     },
                    {"imageName" : "1.png",
-                       "url" =  "https://via.placeholder.com/600/d32776"           
+                       "url" :  "https://via.placeholder.com/600/d32776"           
                     }
                    ]
     },
