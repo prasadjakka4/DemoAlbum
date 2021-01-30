@@ -1,7 +1,7 @@
 {
 	"Albums": [{
 			"id": 1,
-			"title": "Holiday",
+			"title": "Fruits",
 			"photos": [{
 					"name": "airplane.png",
 					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/airplane.png"
@@ -10,14 +10,27 @@
 					"name": "arctichare.png",
 					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/arctichare.png"
 				},
-				   {
+				{
 					"name": "baboon.png",
 					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/baboon.png"
 				},
-				    {
+				{
 					"name": "cat.png",
 					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/cat.png"
+				},
+				{
+					"name": "fruits.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/fruits.png"
+				},
+				{
+					"name": "frymire.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/frymire.png"
+				},
+				{
+					"name": "girl.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/girl.png"
 				}
+
 			]
 		},
 		{
@@ -28,22 +41,114 @@
 					"imageurl": "https://i.postimg.cc/4y1y2MpD/download.jpg"
 				},
 				{
-					"name": "1.png",
-					"imageurl": "https://i.postimg.cc/WbMwTb7V/photo2.jpg"
+					"name": "goldhill.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/goldhill.png"
+				},
+				{
+					"name": "peppers.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/peppers.png"
+				},
+				{
+					"name": "mountain.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/mountain.png"
+				},
+				{
+					"name": "monarch.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+				},
+				{
+					"name": "lena.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/lena.png"
 				}
 			]
 		},
 
 		{
 			"id": 3,
-			"title": "Frineds",
+			"title": "Holiday",
 			"photos": [{
-					"name": "1.png",
-					"imageurl": "https://via.placeholder.com/600/d32776"
+					"name": "pool.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/pool.png"
 				},
 				{
-					"name": "1.png",
-					"imageurl": "https://via.placeholder.com/600/d32776"
+					"name": "sails.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/sails.png"
+				},
+				{
+					"name": "zelda.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/zelda.png"
+				},
+				{
+					"name": "watch.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/watch.png"
+				},
+				{
+					"name": "tulips.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/tulips.png"
+				},
+				{
+					"name": "serrano.png",
+					"imageurl": "https://homepages.cae.wisc.edu/~ece533/images/serrano.png"
+				}
+			]
+
+		},
+		{
+			"id": 4,
+			"title": "Space",
+			"photos": [{
+					"name": "space1.png",
+					"imageurl": "https://i.postimg.cc/gkXrPPxm/space1.jpg"
+				},
+				{
+					"name": "space2.png",
+					"imageurl": "https://i.postimg.cc/W4n17NH6/space2.jpg"
+				},
+				{
+					"name": "space3.png",
+					"imageurl": "https://i.postimg.cc/ydjnBZrg/space3.jpg"
+				},
+				{
+					"name": "space4.png",
+					"imageurl": "https://i.postimg.cc/B6TtBWr4/space4.jpg"
+				},
+				{
+					"name": "space5.png",
+					"imageurl": "https://i.postimg.cc/L6n2HKx5/space5.jpg"
+				},
+				{
+					"name": "space6.png",
+					"imageurl": "https://i.postimg.cc/KvwFjqWN/space6.jpg"
+				}
+			]
+
+		},
+		{
+			"id": 5,
+			"title": "Nature",
+			"photos": [{
+					"name": "Nature1.png",
+					"imageurl": "https://i.postimg.cc/3wk5jgDB/Nature1.jpg"
+				},
+				{
+					"name": "Nature2.png",
+					"imageurl": "https://i.postimg.cc/3xXFTqRf/Nature2.jpg"
+				},
+				{
+					"name": "Nature3.png",
+					"imageurl": "https://i.postimg.cc/NMM6RfxZ/Nature3.jpg"
+				},
+				{
+					"name": "Nature4.png",
+					"imageurl": "https://i.postimg.cc/63mdcJjq/Nature4.jpg"
+				},
+				{
+					"name": "Nature5.png",
+					"imageurl": "https://i.postimg.cc/26VHrxgq/Nature5.jpg"
+				},
+				{
+					"name": "Nature6.png",
+					"imageurl": "https://i.postimg.cc/D0GBbwvn/Nature6.jpg"
 				}
 			]
 
