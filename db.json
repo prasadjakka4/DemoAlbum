@@ -37,8 +37,8 @@
 			"id": 2,
 			"title": "Family",
 			"photos": [{
-					"name": "gun.png",
-					"imageurl": "https://i.postimg.cc/4y1y2MpD/download.jpg"
+					"name": "family1.jpg",
+					"imageurl": "https://i.postimg.cc/q7sPJkF3/family1.jpg"
 				},
 				{
 					"name": "goldhill.png",
@@ -149,6 +149,36 @@
 				{
 					"name": "Nature6.png",
 					"imageurl": "https://i.postimg.cc/D0GBbwvn/Nature6.jpg"
+				}
+			]
+
+		},
+		   {
+			"id": 6,
+			"title": "Snow",
+			"photos": [{
+					"name": "winter1.png",
+					"imageurl": "https://i.postimg.cc/DwBGtsvJ/winter1.jpg"
+				},
+				{
+					"name": "winter6.png",
+					"imageurl": "https://i.postimg.cc/KjfcRPst/winter6.jpg"
+				},
+				{
+					"name": "winter3.png",
+					"imageurl": "https://i.postimg.cc/tgsswMvw/winter3.jpg"
+				},
+				{
+					"name": "winter5.png",
+					"imageurl": "https://i.postimg.cc/gJ925kZL/winter5.jpg"
+				},
+				{
+					"name": "winter4.png",
+					"imageurl": "https://i.postimg.cc/c4ctnY89/winter4.jpg"
+				},
+				{
+					"name": "winter2.png",
+					"imageurl": "https://i.postimg.cc/L5tYvgQs/winter2.jpg"
 				}
 			]
 
